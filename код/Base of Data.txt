@@ -1,0 +1,3397 @@
+==========Welcome to Free IFM programm.===========
+
+
+
+
+
+
+
+
+
+
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+
+Item number:  Data: 0000L000000056
+0000star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000018
+0000
+Item number:  Data: star;0;;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
+Item number:  Data: 0000L000000056
+0000
+Item number:  Data: star;1;010481026802945521H=0WZWkfE/SmM93JJ8e;stop
+
